@@ -1,0 +1,10 @@
+# Xmake cache
+.xmake/
+build/*
+!build/wasm/
+
+
+# MacOS Cache
+.DS_Store
+
+
